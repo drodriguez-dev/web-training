@@ -1,0 +1,19 @@
+{
+  "name": "web-training",
+  "version": "1.0.0",
+  "description": "This is a web for training",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "training",
+    "web"
+  ],
+  "author": "Daniel Rodríguez",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "bootstrap-icons": "^1.7.2"
+  }
+}
