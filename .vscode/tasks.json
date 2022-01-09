@@ -5,7 +5,7 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Sass Compile",
+      "label": "Sass Compile (continuous)",
       "type": "shell",
       "command": "sass ./scss/main.scss:./scss/main.css --watch",
       "group": "build"

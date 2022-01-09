@@ -54,3 +54,6 @@
 // 6. Add additional custom code here
 @import "../scss/darkly-bootswatch";
 
+article {
+  width: clamp(400px, 80%, 800px);
+}
