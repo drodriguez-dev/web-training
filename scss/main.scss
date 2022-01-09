@@ -3,8 +3,8 @@
 @import "../node_modules/bootstrap/scss/functions";
 
 // 2. Include any default variable overrides here
-@import url('darkly-variables.scss');
-@import url('variable-overrides.scss');
+@import "../scss/darkly-variables";
+@import "../scss/variable-overrides";
 
 // 3. Include remainder of required Bootstrap stylesheets
 @import "../node_modules/bootstrap/scss/variables";
@@ -52,5 +52,5 @@
 // scss-docs-end import-stack
 
 // 6. Add additional custom code here
-@import url('darkly-bootswatch.scss');
+@import "../scss/darkly-bootswatch";
 
